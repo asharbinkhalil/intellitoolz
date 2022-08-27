@@ -47,6 +47,31 @@
         <DT><H3 ADD_DATE="1654111923" LAST_MODIFIED="1654114656">Social Engineering</H3>
         <DL><p>
             <DT><A HREF="https://canarytokens.org/generate#" ADD_DATE="1654111894" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADH0lEQVQ4jYWTzW9UVRjGn/c959w7H7dTKi0aiDRph6CpgVCInaFuXBhxgQtXLnDYICyMK1x00REzdyLqX4AfC2rduMWVbknDNBqUhA21MwliY8BCp6Uz03vvOed1McGlPqtn+3vy/AgAVdbjL1UheD/7ezcjAoOIICIgIkAIRAAAAQQe1owXA9dPv26V65e42mlea5XrF10/XdL7C4YLgdIjOValnFIjIXM+ACmVgiAQWD1WCNwg/a5Vrl+sdprXaH7jc/GD5Nu0++cFM3H4jE+siMWONkzWi2ZGRIKP4KSqolDZxC6vluu1SruxrPLhOc4e91LOBTUzevCt1uTiDz51W7po3nH99HUSeYOFLounOTWaVy5zS6vleq3aiZdUGJzLHvdSTQT2ifXOkpy8d+W1Xs8+GLVuqnD0hbPSTyFOkHb7uy5JP21N1T+prMfXSetattVPiaA1AURKEfmkq1m9WyrlXmxN19+ev9+8mmh1IEvsb8YlP/1ypHlv7vfGx6oQnLdPeiCIAQhaACHxpAqG3U66WXxp/IPT7fizlcnFBQH2AxACnpy6s3iUvCy4nSQTzT+z4KQ4HzABJAAyS0SKWfYylwVqSqanD7jZ43cHp06sSRRNpKE5EzxXzAtJi0BfcKA1BML4jxBIAu8zRIAJeZZD7bz1KwJ5SkwKIjJEAKDh4J33lDPKbO52qN1+JCMHjwEAPd3dPO3xF0KtKHWJigInzCJEpAkgYRbxYimnx/sPtm6slusL8/ebV19VegoA5p3trEwuLsytxy9TwYx775wSAwKGI4p14j2POW+/H/SyPyrtxg3z/L6zepAOUfIRKu3GzPZ298N8WDisWI+xcwIRYRF4DjUrLXR7Jr4Z5c0hYtXprT1s7G10472Nbtxbe9ggVp0onzt0eya+qbQQh5oF5IZX7u8tb/9690Jp7vibPrEC4W0VgMUOLSIt4lJ4kB/lUNPO6p0fR0+88g0Xc+9pn2Rf3Tpy5VJlPb7OSp0nFrBWEAjYPLNQYEKCtw6sFEqzx5Zuleu1aqc5oP/XGfi3i4gIvJmIzDOd/wHou58uwtHJsgAAAABJRU5ErkJggg==">Canarytokens</A>
+            
         </DL><p>
     </DL><p>
   
+  
+  
+  
+  1. Shodan—Search for devices connected to the internet.
+2. Wigle—Database of wireless networks, with statistics.
+3. Grep App—Search across a half million git repos.
+4. Binary Edge—Scans the internet for threat intelligence.
+5. ONYPHE—Collects cyber-threat intelligence data.
+6. GreyNoise—Search for devices connected to the internet.
+7. Censys—Assessing attack surface for internet connected devices.
+8. Hunter—Search for email addresses belonging to a website.
+9. Fofa—Search for various threat intelligence.
+10. ZoomEye—Gather information about targets.
+11. LeakIX—Search publicly indexed information.
+12. IntelligenceX—Search Tor, I2P, data leaks, domains, and emails.
+13. Netlas—Search and monitor internet connected assets.
+14. URL Scan—Free service to scan and analyse websites.
+15. PublicWWW—Marketing and affiliate marketing research.
+16. FullHunt—Search and discovery attack surfaces.
+17. CRT sh—Search for certs that have been logged by CT.
+18. Vulners—Search vulnerabilities in a large database.
+19 Pulsedive—Search for threat intelligence.
+20. Packet Storm Security—Browse latest vulnerabilities and exploits.
+21. GrayHatWarefare—Search public S3 buckets.
