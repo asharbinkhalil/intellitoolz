@@ -6,14 +6,6 @@
      DO NOT EDIT! -->
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <DL><p>
-    <DT><H3 ADD_DATE="1647408472" LAST_MODIFIED="1663565545" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks bar</H3>
-    <DL><p>
-        <DT><H3 ADD_DATE="1663565638" LAST_MODIFIED="1663689506">OSINT TOOLS</H3>
-        <DL><p>
-            <DT><H3 ADD_DATE="1663565874" LAST_MODIFIED="1663689527">OSINT Stack</H3>
-            <DL><p>
-                <DT><H3 ADD_DATE="1663689071" LAST_MODIFIED="1663689071">OSINT tools</H3>
-                <DL><p>
                     <DT><H3 ADD_DATE="1663689071" LAST_MODIFIED="1663689071">IP</H3>
                     <DL><p>
                         <DT><A HREF="https://toolbox.googleapps.com/apps/dig/#ANY/" ADD_DATE="1663689071">Dig (DNS lookup)</A>
