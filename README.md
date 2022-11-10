@@ -4,7 +4,7 @@
 <!-- This is an automatically generated file.
      It will be read and overwritten.
      DO NOT EDIT! -->
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html"; charset=UTF-8">
+<META HTTP-EQUIV="Content-Type" CONTENT="html; charset=UTF-8">
 <DL><p>
                     <DT><H3 ADD_DATE="1663689071" LAST_MODIFIED="1663689071">IP</H3>
                     <DL><p>
