@@ -1,10 +1,10 @@
 ## MY-OSINT-TOOLS 
 
-### IP
+` IP `
 
 [Dig (DNS lookup)](https://toolbox.googleapps.com/apps/dig/#ANY/)
 
-[ip & domain](https://who.is/)
+[Ip & Domain](https://who.is/)
 
 [ViewDNS.info - Your one source for DNS related tools!](https://viewdns.info/)
 
@@ -12,11 +12,11 @@
 
 [BuiltWith Technology Lookup](https://builtwith.com/)
 
-[shohdan ip](https://www.shodan.io/host/134.119.176.19)
+[Shohdan](https://www.shodan.io/host/134.119.176.19)
 
 [GeoIP2 Web Service Demo | MaxMind](https://www.maxmind.com/en/geoip2-precision-demo?ip_address=134.119.176.19)
 
-### Reverse image
+`Reverse Image`
 
 [Yandex.Images: search for images online or search by image](https://yandex.com/images/)
 
@@ -24,7 +24,7 @@
 
 [Google Images](https://images.google.com/)
 
-### name
+`Name`
 
 [Public Information](https://xlek.com/search_results.php)
 
@@ -32,7 +32,7 @@
 
 [WhatsMyName Web osint](https://whatsmyname.app/)
 
-### Email OSINT
+`Email OSINT`
 
 [Epieos, the ultimate OSINT tool for email search | holehe is CLI LINUX](https://epieos.com/)
 
@@ -42,7 +42,7 @@
 
 [\- Email exists](https://centralops.net/co/emaildossier.aspx)
 
-### Social Engineering
+`Social Engineering`
 
 [Canarytokens](https://canarytokens.org/generate#)
 
@@ -72,7 +72,7 @@
 
 [SampleCTF](https://samplectf.com/scoreboard)
 
-### Area & Event Monitoring
+` Area & Event Monitoring`
 
 ### Live Monitoring
 
