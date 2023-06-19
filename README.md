@@ -276,7 +276,7 @@
 <li><p><a href="https://livingatlas.arcgis.com/livefeeds-status/">Live Feeds Status</a></p>
 </li>
 <li><p><a href="https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data">Active Fire Data -- Earthdata</a></p>
-</details></li>
+</li>
 </ul>
 <details>
 
@@ -330,7 +330,7 @@
 <li><p><a href="https://polinode.com/">Polinode - Powerful Network Analysis in the Cloud</a></p>
 </li>
 <li><p><a href="https://www.google.com/advanced_search">2. Google Advanced Search (Google)</a></p>
-</details></li>
+</li>
 </ul>
 <summary style="text-align: center; font-size: 24px; background-color: #30763E; padding: 5px; border-radius: 110px;">Web</summary>
 
@@ -409,7 +409,7 @@
 <summary style="font-size: 18px; text-indent: 2em;">VKontakte</summary>
 
 <ul>
-<li><a href="http://snradar.azurewebsites.net/">SnRadar</a></details></li>
+<li><a href="http://snradar.azurewebsites.net/">SnRadar</a></li>
 </ul>
 <summary style="text-align: center; font-size: 24px;  background-color: #31322B; padding: 5px; border-radius: 110px;">CCTV CAMERAS</summary>
 
@@ -573,8 +573,6 @@
 </details>
 
 <summary style="text-align: center; font-size: 24px; background-color: #CF5054; padding: 5px; border-radius: 110px;">Threat Actors</summary>
-
-
 
 </details>
 <details>
@@ -1097,7 +1095,7 @@
 <li><p><a href="https://www.smat-app.com/">SMAT - Disinformation Tool</a></p>
 </li>
 <li><p><a href="https://metaosint.github.io/table/">Full Results Table -- MetaOSINT.github.io</a></p>
-</details></li>
+</li>
 </ul>
 <summary style="text-align: center; font-size: 24px; background-color: #213451; padding: 5px; border-radius: 110px;">Other</summary>
 
