@@ -278,6 +278,7 @@
 <li><p><a href="https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data">Active Fire Data -- Earthdata</a></p>
 </li>
 </ul>
+</details>
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">YouTube</summary>
@@ -332,6 +333,8 @@
 <li><p><a href="https://www.google.com/advanced_search">2. Google Advanced Search (Google)</a></p>
 </li>
 </ul>
+
+</details>
 <summary style="text-align: center; font-size: 24px; background-color: #30763E; padding: 5px; border-radius: 110px;">Web</summary>
 
 <details>
