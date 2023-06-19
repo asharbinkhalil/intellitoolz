@@ -26,8 +26,9 @@
 <li><p><a href="https://xlek.com/">xlek - Free Public Data Search</a></p>
 </li>
 <li><p><a href="https://nuwber.com/">Nuwber</a></p>
-</details></li>
+</li>
 </ul>
+</details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Reverse Image</summary>
 
