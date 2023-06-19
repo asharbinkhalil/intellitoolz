@@ -1,4 +1,4 @@
-## MY-OSINT-TOOLS 
+## Intellitoolz
 
 ` IP `
 
@@ -12,9 +12,9 @@
 
 [BuiltWith Technology Lookup](https://builtwith.com/)
 
-[Shohdan](https://www.shodan.io/host/134.119.176.19)
+[Shohdan](https://www.shodan.io)
 
-[GeoIP2 Web Service Demo | MaxMind](https://www.maxmind.com/en/geoip2-precision-demo?ip_address=134.119.176.19)
+[GeoIP2 Web Service Demo -- MaxMind](https://www.maxmind.com/en/geoip2-precision-demo?ip_address=134.119.176.19)
 
 `Reverse Image`
 
@@ -34,7 +34,7 @@
 
 `Email OSINT`
 
-[Epieos, the ultimate OSINT tool for email search | holehe is CLI LINUX](https://epieos.com/)
+[Epieos, the ultimate OSINT tool for email search -- holehe is CLI LINUX](https://epieos.com/)
 
 [Lampyre osint](https://account.lampyre.io/data-lookup)
 
@@ -50,13 +50,13 @@
 
 [The Ultimate OSINT Collection - start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
-[Python for OSINT: Find if a Phone has an Instagram Account | Search-ish](https://search-ish.com/2021/05/19/use-python-find-if-a-phone-has-a-registered-instagram-account/)
+[Python for OSINT: Find if a Phone has an Instagram Account -- Search-ish](https://search-ish.com/2021/05/19/use-python-find-if-a-phone-has-a-registered-instagram-account/)
 
 [socmint · to explorreee](https://github.com/topics/socmint)
 
 [OSINT\_Handbook\_September 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 
-[tinfoleak | Free dossier of a twitter user](https://tinfoleak.com/#contact)
+[tinfoleak -- Free dossier of a twitter user](https://tinfoleak.com/#contact)
 
 [Worldmap of OSINT tools](https://cipher387.github.io/osintmap/)
 
@@ -94,7 +94,7 @@
 
 [Instagram (Use Search + Auto Refresh)](https://www.instagram.com/accounts/login/?hl=en)
 
-[Instagram Explorer | OSINT Combine](https://www.osintcombine.com/instagram-explorer/##)
+[Instagram Explorer -- OSINT Combine](https://www.osintcombine.com/instagram-explorer/##)
 
 ### Facebook
 
@@ -106,7 +106,9 @@
 
 [SnapChat Activity Map (SnapChat)](https://map.snapchat.com/@-33.867100,151.207000,12.00z)
 
-[Snapchat Multi-Viewer | OSINT Combine](https://www.osintcombine.com/snapchat-multi-viewer)
+[Snapchat Multi-Viewer -- OSINT Combine](https://www.osintcombine.com/snapchat-multi-viewer)
+
+[khoji -- To download previous bitmojis](https://www.github.com/asharbinkhalil/khoji)
 
 ### Flikr
 
@@ -130,13 +132,13 @@
 
 [Bot Sentinel Dashboard ‹ Bot Sentinel](https://botsentinel.com/)
 
-[Social Geo Lens | OSINT Combine](https://www.osintcombine.com/social-geo-lens)
+[Social Geo Lens -- OSINT Combine](https://www.osintcombine.com/social-geo-lens)
 
-[Global Security Hotspots Map | Crisis24](https://crisis24.garda.com/insights-intelligence/intelligence/risk-maps/global-security-hotspots-map)
+[Global Security Hotspots Map -- Crisis24](https://crisis24.garda.com/insights-intelligence/intelligence/risk-maps/global-security-hotspots-map)
 
 [Live Feeds Status](https://livingatlas.arcgis.com/livefeeds-status/)
 
-[Active Fire Data | Earthdata](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
+[Active Fire Data -- Earthdata](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
 
 ### YouTube
 
@@ -154,7 +156,7 @@
 
 [Global Fishing Watch](https://globalfishingwatch.org/map/)
 
-[MarineTraffic: Global Ship Tracking Intelligence | AIS Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:100.5/centery:13.6/zoom:11)
+[MarineTraffic: Global Ship Tracking Intelligence -- AIS Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:100.5/centery:13.6/zoom:11)
 
 [Maritime Database](https://www.maritime-database.com/)
 
@@ -234,7 +236,7 @@
 
 [4\. Live UA Map (Significant Events)](https://liveuamap.com/#)
 
-[World Building Map | EMPORIS](https://www.emporis.com/buildings/map?action=%2Fbuildings#)
+[World Building Map -- EMPORIS](https://www.emporis.com/buildings/map?action=%2Fbuildings#)
 
 [MapChecking - Crowd size estimator](https://www.mapchecking.com/#48.8629816,2.2871467;48.8628097,2.2868619;48.8626608,2.2872267;48.8628700,2.2875427;2.5;48.8628950,2.2869780,18)
 
@@ -278,7 +280,7 @@
 
 [18\. Instagram (Locate and modify location ID in URL)](https://www.instagram.com/explore/locations/234756425/)
 
-[Instagram Explorer | OSINT Combine](https://www.osintcombine.com/instagram-explorer/#)
+[Instagram Explorer -- OSINT Combine](https://www.osintcombine.com/instagram-explorer/#)
 
 ### Threat Actors
 
@@ -308,7 +310,7 @@
 
 [Coronavirus 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#)
 
-[Flu & Ebola Map | Virus & Contagious Disease Surveillance](https://www.healthmap.org/en/)
+[Flu & Ebola Map -- Virus & Contagious Disease Surveillance](https://www.healthmap.org/en/)
 
 [COVID-19 Crisis Dashboard](https://covid19board.app/)
 
@@ -330,7 +332,7 @@
 
 ### Humanitarian
 
-[Home | Financial Tracking Service](https://fts.unocha.org/)
+[Home -- Financial Tracking Service](https://fts.unocha.org/)
 
 ### Person of Interest Search
 
@@ -356,7 +358,7 @@
 
 ### Instagram
 
-[Instagram Explorer | OSINT Combine](https://www.osintcombine.com/instagram-explorer)
+[Instagram Explorer -- OSINT Combine](https://www.osintcombine.com/instagram-explorer)
 
 [Searchmy.bio - Search Instagram bio text](https://www.searchmy.bio/)
 
@@ -364,13 +366,13 @@
 
 [Export Comments to Excel Free - EXPORTCOMMENTS.COM](https://exportcomments.com/#)
 
-[Instagram Analytics & TikTok Analytics | Analisa.io](https://analisa.io/)
+[Instagram Analytics & TikTok Analytics -- Analisa.io](https://analisa.io/)
 
 ### TikTok
 
-[TikTok Quick Search | OSINT Combine](https://www.osintcombine.com/tiktok-quick-search)
+[TikTok Quick Search -- OSINT Combine](https://www.osintcombine.com/tiktok-quick-search)
 
-[Instagram Analytics & TikTok Analytics | Analisa.io](https://analisa.io/#)
+[Instagram Analytics & TikTok Analytics -- Analisa.io](https://analisa.io/#)
 
 ### VK
 
@@ -386,7 +388,7 @@
 
 [Telegram Search](https://tgstat.ru/en/search)
 
-[Home | Lyzem.com](https://lyzem.com/)
+[Home -- Lyzem.com](https://lyzem.com/)
 
 ### Facebook
 
@@ -412,9 +414,9 @@
 
 [PeekYou - People Search Made Easy](https://www.peekyou.com/)
 
-[411 - White Pages | Find Phone Numbers, People, Addresses & More](https://www.411.com/)
+[411 - White Pages -- Find Phone Numbers, People, Addresses & More](https://www.411.com/)
 
-[People Search | Intelius](https://www.intelius.com/people-search?utm_source=google&utm_medium=cpc&utm_campaign=brand%20international&utm_content=25302&utm_term=%2Bintelius&gclid=Cj0KCQjw-r71BRDuARIsAB7i_QOSCvv1_ibR-OBmpUSDuiJLk75-NPxmhrl_mZv89VkDWCDdawEvLHEaAlIhEALw_wcB)
+[People Search -- Intelius](https://www.intelius.com/people-search?utm_source=google&utm_medium=cpc&utm_campaign=brand%20international&utm_content=25302&utm_term=%2Bintelius&gclid=Cj0KCQjw-r71BRDuARIsAB7i_QOSCvv1_ibR-OBmpUSDuiJLk75-NPxmhrl_mZv89VkDWCDdawEvLHEaAlIhEALw_wcB)
 
 [xlek - Free Public Data Search](https://xlek.com/)
 
@@ -424,7 +426,7 @@
 
 [WhatsMyName Web](https://whatsmyname.app/)
 
-[Namechk | Username, Domain, and Trademark Search | Username Registration](https://namechk.com/)
+[Namechk -- Username, Domain, and Trademark Search -- Username Registration](https://namechk.com/)
 
 ### Image Search
 
@@ -436,7 +438,7 @@
 
 [Plaghunter.com](https://www.plaghunter.com/)
 
-[Reverse Image Analyser | OSINT Combine](https://www.osintcombine.com/reverse-image-analyzer)
+[Reverse Image Analyser -- OSINT Combine](https://www.osintcombine.com/reverse-image-analyzer)
 
 [Pl@ntNet Identify](https://identify.plantnet.org/)
 
@@ -482,7 +484,7 @@
 
 ### Forums
 
-[search (@search@gab.com) | gab.com - Gab Social](https://gab.com/search)
+[search (@search@gab.com) -- gab.com - Gab Social](https://gab.com/search)
 
 [Reddit Investigator (Reddit)](http://www.redditinvestigator.com/)
 
@@ -596,7 +598,7 @@
 
 [Australia Business Directory](https://au.companiesdb.net/)
 
-[ASIC Home | ASIC - Australian Securities and Investments Commission](https://asic.gov.au/)
+[ASIC Home -- ASIC - Australian Securities and Investments Commission](https://asic.gov.au/)
 
 ### WhatsApp
 
@@ -660,7 +662,7 @@
 
 [Brand24 - Social Media Monitoring Tool](https://brand24.com/)
 
-[CrowdTangle | Content Discovery and Social Monitoring Made Easy](https://www.crowdtangle.com/)
+[CrowdTangle -- Content Discovery and Social Monitoring Made Easy](https://www.crowdtangle.com/)
 
 [Talkwalker Social Search](https://www.talkwalker.com/social-media-analytics-search)
 
@@ -682,7 +684,7 @@
 
 [EUROPEAN UNION](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)
 
-[OffshoreAlert | Offshore Financial News, Documents & Intelligence](https://www.offshorealert.com/)
+[OffshoreAlert -- Offshore Financial News, Documents & Intelligence](https://www.offshorealert.com/)
 
 ### Mapping
 
@@ -710,13 +712,13 @@
 
 ### Sat Imagery
 
-[Remote Pixel | Satellite Search](https://search.remotepixel.ca/#6.71/-34.451/147.593)
+[Remote Pixel -- Satellite Search](https://search.remotepixel.ca/#6.71/-34.451/147.593)
 
-[Tuggerah NSW 2259, Australia. - Land Viewer | EOS](https://eos.com/landviewer/?lat=-33.60109&lng=151.21023&z=11)
+[Tuggerah NSW 2259, Australia. - Land Viewer -- EOS](https://eos.com/landviewer/?lat=-33.60109&lng=151.21023&z=11)
 
 [EarthExplorer - Home](https://earthexplorer.usgs.gov/)
 
-[Soar | Discover your Earth](https://soar.earth/)
+[Soar -- Discover your Earth](https://soar.earth/)
 
 [25 Satellite Maps To See Earth in New Ways \[2020\] - GIS Geography](https://gisgeography.com/satellite-maps/)
 
@@ -736,7 +738,7 @@
 
 [Geolocation Estimation (Images)](https://labs.tib.eu/geoestimation/)
 
-[Travel Time Map | Drive Time Radius & Other Modes](https://app.traveltime.com/search)
+[Travel Time Map -- Drive Time Radius & Other Modes](https://app.traveltime.com/search)
 
 [Plant.id - Plant identification app](https://plant.id/)
 
@@ -762,7 +764,7 @@
 
 [Tone Analyzer (IBM Watson)](https://tone-analyzer-demo.ng.bluemix.net/)
 
-[Cloud Vision API  |  Image Analysis](https://cloud.google.com/vision/docs/drag-and-drop)
+[Cloud Vision API  --  Image Analysis](https://cloud.google.com/vision/docs/drag-and-drop)
 
 ### Reporting Tools
 
@@ -784,15 +786,15 @@
 
 ### References
 
-[Hate Symbols Database | ADL](https://www.adl.org/hatesymbolsdatabase)
+[Hate Symbols Database -- ADL](https://www.adl.org/hatesymbolsdatabase)
 
-[Glossary | Counter Extremism Project](https://www.counterextremism.com/glossary)
+[Glossary -- Counter Extremism Project](https://www.counterextremism.com/glossary)
 
-[FastEmoji Emojis, Emoticons, Smileys | fastemoji.com](https://www.fastemoji.com/)
+[FastEmoji Emojis, Emoticons, Smileys -- fastemoji.com](https://www.fastemoji.com/)
 
 [Simple Collaborative Mind Maps & Flow Charts - Coggle](https://coggle.it/)
 
-[Create a Report | Reportivo](https://www.reportivo.com/create)
+[Create a Report -- Reportivo](https://www.reportivo.com/create)
 
 [Free Online Report Maker: Design a Custom Report - Canva](https://www.canva.com/create/reports/)
 
@@ -838,17 +840,17 @@
 
 ### Phone
 
-[Twilio | Try Twilio Free](https://www.twilio.com/try-twilio)
+[Twilio -- Try Twilio Free](https://www.twilio.com/try-twilio)
 
 [Top 10 Free Sites to Receive SMS Online Without Real Phone Number- dr.fone](https://drfone.wondershare.com/message/receive-message-online.html)
 
-[FREE mobile numbers to receive text messages online | mytrashmobile.com](https://www.mytrashmobile.com/numbers)
+[FREE mobile numbers to receive text messages online -- mytrashmobile.com](https://www.mytrashmobile.com/numbers)
 
 [TalkU - Free Phone Calls, Texts & Walkie Talkie, PTT](https://www.talkyou.me/en/index.html)
 
 [Gravatar - Globally Recognized Avatars](https://en.gravatar.com/)
 
-[Fake Person Generator | User Identity, Account and Profile Generator](https://www.fakepersongenerator.com/Index/generate)
+[Fake Person Generator -- User Identity, Account and Profile Generator](https://www.fakepersongenerator.com/Index/generate)
 
 [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)
 
@@ -862,7 +864,7 @@
 
 [Character Biography Generator](https://www.character-generator.org.uk/bio/)
 
-[The Ultimate List of Hobbies | Discover a Hobby](https://discoverahobby.com/)
+[The Ultimate List of Hobbies -- Discover a Hobby](https://discoverahobby.com/)
 
 [Wikipedia Analysis Tool](https://wikiwho.ailef.tech/)
 
@@ -876,7 +878,7 @@
 
 [ToolDatabase < Dmi < Foswiki](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
 
-[Lorand Bodo | Blog | OSINT | Countering Terrorism & Extremism](https://www.lorandbodo.com/weekly-tweets)
+[Lorand Bodo -- Blog -- OSINT -- Countering Terrorism & Extremism](https://www.lorandbodo.com/weekly-tweets)
 
 [Forensically, free online photo forensics tools - 29a.ch](https://29a.ch/photo-forensics/#forensic-magnifier)
 
@@ -892,7 +894,7 @@
 
 [SMAT - Disinformation Tool](https://www.smat-app.com/)
 
-[Full Results Table | MetaOSINT.github.io](https://metaosint.github.io/table/)
+[Full Results Table -- MetaOSINT.github.io](https://metaosint.github.io/table/)
 
 ### Cyrptocurrency
 
@@ -960,7 +962,7 @@
 
 [DNS Dumpster - Domain research tool that can discover hosts related to a domain](https://dnsdumpster.com/)
 
-[searchcode | source code search engine](https://searchcode.com/)
+[searchcode -- source code search engine](https://searchcode.com/)
 
 [Investigator](https://abhijithb200.github.io/investigator/)
 
