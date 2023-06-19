@@ -5,6 +5,7 @@
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">People Search Tools</summary>
+<ul>
 
 - [Pipl - People Search](https://pipl.com/)
 
@@ -27,10 +28,14 @@
 - [xlek - Free Public Data Search](https://xlek.com/)
 
 - [Nuwber](https://nuwber.com/)
+
+
 </details>
+</ul>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Reverse Image</summary>
+<ul>
 
 - [Yandex.Images: search for images online or search by image](https://yandex.com/images/)
 
@@ -60,11 +65,13 @@
 
 - [Cloud Vision API  --  Image Analysis](https://cloud.google.com/vision/docs/drag-and-drop)
 
+</ul>
 </details>
 
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Name </summary>
+<ul>
 
 - [Public Information](https://xlek.com/search_results.php)
 
@@ -72,11 +79,13 @@
 
 - [WhatsMyName Web osint](https://whatsmyname.app/)
 
+</ul>
 </details>
 
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Email</summary>
+<ul>
 
 - [Epieos, the ultimate OSINT tool for email search -- holehe is CLI LINUX](https://epieos.com/)
 
@@ -92,13 +101,16 @@
 
 - [Trace Email Address Source](https://whatismyipaddress.com/trace-email)
 
+</ul>
 </details>
 
 <summary style="text-align: center; font-size: 24px; background-color: #4085B4; padding: 5px; border-radius: 110px;">Social</summary>
 
 
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Twitter</summary>
+<ul>
 
 - [Twitterfall (Twitter)](https://twitterfall.com/)
 
@@ -126,11 +138,13 @@
 
 - [TheHerdLocker.com](http://theherdlocker.com/)
 
+</ul>
 </details>
 
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Instagram</summary>
+<ul>
 
 - [Instagram (Use Search + Auto Refresh)](https://www.instagram.com/accounts/login/?hl=en)
 
@@ -146,17 +160,21 @@
 
 - [Instagram Analytics & TikTok Analytics -- Analisa.io](https://analisa.io/)
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">WhatsApp</summary>
+<ul>
 
 - [WA Watcher online status tracker - WhatsApp Tools](https://watools.io/wa-watcher)
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Facebook</summary>
+<ul>
 
 - [Facebook Live Video Search (Modify search location)](https://www.facebook.com/search/videos/?q=Sydney&epa=FILTERS&filters=eyJ2aWRlb3Nfc291cmNlIjoie1wibmFtZVwiOlwidmlkZW9zX2xpdmVcIixcImFyZ3NcIjpcIlwifSJ9)
 
@@ -167,11 +185,13 @@
 
 - [Export Facebook, Instagram, Twitter, YouTube, VK, TikTok, Vimeo Comments to CSV / Excel - EXPORTCOMMENTS.COM](https://exportcomments.com/)
 
+</ul>
 </details>
 
 <details>
 
  <summary style="font-size: 18px; text-indent: 2em;">Snapchat</summary>
+<ul>
 
 - [SnapChat Activity Map (SnapChat)](https://map.snapchat.com/@-33.867100,151.207000,12.00z)
 
@@ -179,37 +199,45 @@
 
 - [khoji -- To download previous bitmojis](https://www.github.com/asharbinkhalil/khoji)
 
+</ul>
 </details>
 
 
 <details>
 
  <summary style="font-size: 18px; text-indent: 2em;">TikTok</summary>
+<ul>
 
 - [TikTok Quick Search -- OSINT Combine](https://www.osintcombine.com/tiktok-quick-search)
 
 - [Instagram Analytics & TikTok Analytics -- Analisa.io](https://analisa.io/#)
 
+</ul>
 </details>
 
 
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">VK</summary>
+<ul>
 
 - [VKontakte People Search](https://vk.com/people)
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Foursquare</summary>
+<ul>
 
 - [Foursquare Search](https://foursquare.com/search)
 
+</ul>
 </details>
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Telegram</summary>
+<ul>
 
 - [Telegram Search (Telegago)](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
 
@@ -217,19 +245,23 @@
 
 - [Home -- Lyzem.com](https://lyzem.com/)
 
+</ul>
 </details>
 
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Flikr</summary>
+<ul>
 
 - [Flickr Activity Map (Flickr)](https://www.flickr.com/map)
 
 - [Flikr Current Location](https://current-location.com/)
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Other</summary>
+<ul>
 
 
 - [Google NEAR Keyword Sample (Google)](https://www.google.com.au/search?q=cowboy+boots+AND+near+sydney&safe=strict&glp=1&adtest=on&tci=g%3A2036&uule=w+CAIQICIJQXVzdHJhbGlh&adtest-useragent=Mozilla%2F5.0+%28Linux%3B+U%3B+Android-4.0.3%3B+en-us%3B+Xoom+Build%2FIML77%29+AppleWebKit%2F535.7+%28KHTML%2C+like+Gecko%29+CrMo%2F16.0.912.75+Safari%2F535.7&oq=cowboy+boots+AND+near+sydney&gs_l=heirloom-serp.3...3525.3898.0.4005.6.2.0.3.0.0.171.301.0j2.2.0....0...1ac.1.34.heirloom-serp..5.1.130.fun-5TipiJM)
@@ -253,11 +285,13 @@
 - [Live Feeds Status](https://livingatlas.arcgis.com/livefeeds-status/)
 
 - [Active Fire Data -- Earthdata](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
+</ul>
 </details>
 
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">YouTube</summary>
+<ul>
 
 
 - [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html)
@@ -267,12 +301,14 @@
 - [Hadzy - Youtube comments search](https://hadzy.com/)
 
 
+</ul>
 </details>
 
 
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Link Analysis</summary>
+<ul>
 
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=353711.52128544624&y=389235.4555817076&z=18075.980708777406&q=europe)
 
@@ -305,6 +341,7 @@
 - [Polinode - Powerful Network Analysis in the Cloud](https://polinode.com/)
 
 - [2\. Google Advanced Search (Google)](https://www.google.com/advanced_search)
+</ul>
 </details>
 
 
@@ -313,6 +350,7 @@
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">IP</summary>
+<ul>
 
 - [Dig (DNS lookup)](https://toolbox.googleapps.com/apps/dig/#ANY/)
 
@@ -328,14 +366,17 @@
 
 - [GeoIP2 Web Service Demo -- MaxMind](https://www.maxmind.com/en/geoip2-precision-demo?ip_address=134.119.176.19)
 
+</ul>
 </details>
 
 
 <summary style="text-align: center; font-size: 24px; background-color: #937E58; padding: 5px; border-radius: 110px;">Transport</summary>
 
+
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Maritime</summary>
+<ul>
 
 - [Vessel Ownership & ID Records](http://www.equasis.org/EquasisWeb/public/HomePage)
 
@@ -345,10 +386,12 @@
 
 - [Maritime Database](https://www.maritime-database.com/)
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Air</summary>
+<ul>
 
 - [Aircraft Radar (ADSB Exchange)](https://global.adsbexchange.com/VirtualRadar/desktop.html)
 
@@ -360,11 +403,13 @@
 
 - [ADS-B Historical Records](http://www.ads-b.nl/)
 
+</ul>
 </details>
 
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Rails</summary>
+<ul>
 
 - [Global Railway Map Reference](https://www.openrailwaymap.org/)
 
@@ -372,19 +417,24 @@
 
 - [Railroad Maps](http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/)
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">VKontakte</summary>
+<ul>
 
 - [SnRadar](http://snradar.azurewebsites.net/)
+</ul>
 </details>
 
 
 <summary style="text-align: center; font-size: 24px;  background-color: #31322B; padding: 5px; border-radius: 110px;">CCTV CAMERAS</summary>
 
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Live Geo Map</summary>
+<ul>
 
 - [OpenStreetCam](https://openstreetcam.org/map/@40.73112880602221,-73.99618148803712,12z)
 
@@ -395,9 +445,11 @@
 - [Surveillance under Surveillance](https://kamba4.crux.uberspace.de/)
 
 - [Windy: Webcams](https://www.windy.com/-Webcams/webcams?-33.859,151.200,5)
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Reference Search</summary>
+<ul>
 
 - [Global Airport Webcams](http://airportwebcams.net/category/australia/)
 
@@ -407,10 +459,12 @@
 
 
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Alerting & Triggers</summary>
+<ul>
 
 - [Google Alerts](https://www.google.com.au/alerts)
 
@@ -422,12 +476,14 @@
 
 - [GDACS - Global Disaster Alerting Coordination System](https://gdacs.org/)
 
+</ul>
 </details>
 
 
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Keyword Tools</summary>
+<ul>
 
 - [Multi-Platform Search Portal (6 SM Platforms)](https://www.social-searcher.com/google-social-search/)
 
@@ -435,14 +491,18 @@
 
 
 
+</ul>
 </details>
 
 
 <summary style="text-align: center; font-size: 24px; background-color: #5D8DC5; padding: 5px; border-radius: 110px;">Area Assessment Tools</summary>
 
+
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Area Overview</summary>
+<ul>
 
 
 - [1\. Area Maps](https://mc.bbbike.org/mc/#)
@@ -461,10 +521,12 @@
 
 
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Drone Footage</summary>
+<ul>
 
 - [TRAVELwithDRONE - Aerial Videos Database](https://travelwithdrone.com/)
 
@@ -484,6 +546,7 @@
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">News Topics</summary>
+<ul>
 
 - [5\. Global Newspaper Map](https://newspapermap.com/)
 
@@ -495,10 +558,12 @@
 
 - [Trackography - Who tracks you online?](https://trackography.org/)
 
+</ul>
 </details>
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Social Media Macro View</summary>
+<ul>
 
 - [9\. Social Media Usage Statistics](https://www.statista.com/)
 
@@ -508,9 +573,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">High Activity Zones</summary>
+<ul>
 
 
 - [12\. High Activity Zones (Twitter)](https://onemilliontweetmap.com/?center=7.18810087117902,59.94140625000001&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
@@ -523,9 +590,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Area Photos</summary>
+<ul>
 
 
 - [16\. Facebook (Modify Tagged Location & Keyword to Area)](https://www.facebook.com/search/photos/?q=Bangkok)
@@ -537,15 +606,19 @@
 - [Instagram Explorer -- OSINT Combine](https://www.osintcombine.com/instagram-explorer/#)
 
 
+</ul>
 </details>
 
 <summary style="text-align: center; font-size: 24px; background-color: #CF5054; padding: 5px; border-radius: 110px;">Threat Actors</summary>
 
 
 
+
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Crime & Gangs</summary>
+<ul>
 
 
 - [19\. Crime Index by Country](https://www.numbeo.com/crime/rankings_by_country.jsp)
@@ -558,9 +631,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Militant Organisations</summary>
+<ul>
 
 - [23\. Militant Group Historical Activities](https://www.start.umd.edu/gtd/search/BrowseBy.aspx?category=country)
 
@@ -574,9 +649,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Health Activity</summary>
+<ul>
 
 - [Coronavirus 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#)
 
@@ -586,9 +663,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">NGO Activity</summary>
+<ul>
 
 - [Counter Human Trafficking Organisations Map](http://www.globalmodernslavery.org/)
 
@@ -606,6 +685,7 @@
 
 
 
+</ul>
 </details>
 
 
@@ -616,9 +696,12 @@
 <summary style="text-align: center; font-size: 24px; background-color: #000000; padding: 5px; border-radius: 110px;">Breached Data</summary>
 
 
+
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Sites</summary>
+<ul>
 
 - [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
 
@@ -627,9 +710,11 @@
 - [GhostProject](https://ghostproject.fr/m)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Documents</summary>
+<ul>
 
 - [Google Custom Search](http://cse.google.co.uk/cse?cof=CX:Documents%2520-%2520Formats;&cx=009462381166450434430:nudphlkt3p4&num=100&ei=TgKvWJLJCamUgAaP1Y2IBA)
 
@@ -637,9 +722,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Forums</summary>
+<ul>
 
 
 - [search (@search@gab.com) -- gab.com - Gab Social](https://gab.com/search)
@@ -656,18 +743,19 @@
 
 - [reddit visualization - YASIV](http://yasiv.com/reddit)
 
+</ul>
 </details>
 
 
 <summary style="text-align: center; font-size: 24px; background-color: #DA3FD9; padding: 5px; border-radius: 110px;">Country Specific Registers</summary>
 
 
-
-
+</ul>
 </details>
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">CANADA</summary>
+<ul>
 
 - [CANADA](http://www.canada411.ca/)
 
@@ -687,18 +775,22 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">CYPRUS</summary>
+<ul>
 
 - [CYPRUS](https://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer)
 
 - [CYPRUS - Offshore Companies](https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?sc=0&lang=EN)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">DENMARK</summary>
+<ul>
 
 - [DENMARK - Domain Register](https://www.dk-hostmaster.dk/da/velkommen-til-dk-hostmaster)
 
@@ -713,23 +805,29 @@
 - [DENMARK - Search for Person](https://www.krak.dk/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">ESTONIA</summary>
+<ul>
 
 - [ESTONIA](http://teatmik.ee/en/personlegal/14144085-Asicvault-O%C3%9C)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">FRANCE</summary>
+<ul>
 
 - [FRANCE](http://societe.com/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">NORWAY</summary>
+<ul>
 
 - [NORWAY - Yellow Pages](https://www.gulesider.no/)
 
@@ -742,16 +840,20 @@
 - [NORWAY - Proff - Business site, find info about companies, key persons, accounting info etc:](https://www.proff.no/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">RUSSIA</summary>
+<ul>
 
 - [RUSSIA](https://egrul.nalog.ru/index.html)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">SWEDEN</summary>
+<ul>
 
 - [SWEDEN](http://www.allabolag.se/)
 
@@ -760,9 +862,11 @@
 - [SWEDEN - Eniro](http://www.eniro.se/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">SWITZERLAND</summary>
+<ul>
 
 - [SWITZERLAND - Search companies and individuals in Switzerland.](http://zefix.ch/en/search/entity/welcome)
 
@@ -771,9 +875,11 @@
 - [Moneyhouse - Commercial register and business information](https://www.moneyhouse.ch/en/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">UNITED KINGDOM</summary>
+<ul>
 
 - [UNITED KINGDOM - 192](https://www.192.com/)
 
@@ -782,9 +888,11 @@
 - [British Phonebook](http://www.britishphonebook.com/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">USA</summary>
+<ul>
 
 - [USA - Public Records](https://publicrecords.onlinesearches.com/)
 
@@ -793,27 +901,34 @@
 - [USA - Biznar](https://biznar.com/biznar/desktop/en/search.html)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">AUSTRALIA</summary>
+<ul>
 
 - [Australia Business Directory](https://au.companiesdb.net/)
 
 - [ASIC Home -- ASIC - Australian Securities and Investments Commission](https://asic.gov.au/)
 
 
+</ul>
 </details>
 
 </summary>
+<ul>
 
 <summary style="text-align: center; font-size: 24px; background-color: #47A9AA; padding: 5px; border-radius: 110px;">Corporate Profiling</summary>
 
 
 
 
+
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Structures</summary>
+<ul>
 
 - [LinkedIn Hidden Search](https://www.linkedin.com/search/results/all/?keywords=%20company:%22Company%22&origin=GLOBAL_SEARCH_HEADER)
 
@@ -832,9 +947,11 @@
 - [Dun & Bradstreet - Accelerate Growth and Improve Business Performance](https://www.dnb.com/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Brand Metrics</summary>
+<ul>
 
 - [Twiangulate Competition Comparison (Tiwtter )](http://twiangulate.com/search/)
 
@@ -853,9 +970,11 @@
 - [Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=AU)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Records</summary>
+<ul>
 
 - [Influence Explorer (Contracts US & Aus)](https://techinquiry.org/explorer)
 
@@ -873,6 +992,7 @@
 
 - [OffshoreAlert -- Offshore Financial News, Documents & Intelligence](https://www.offshorealert.com/)
 
+</ul>
 </details>
 
 
@@ -882,6 +1002,7 @@
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Tools</summary>
+<ul>
 
 - [Google Maps](https://www.google.com/maps)
 
@@ -905,9 +1026,11 @@
 
 - [Wayback Imagery](http://livingatlas.arcgis.com/wayback/)
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Sat Imagery</summary>
+<ul>
 
 - [Remote Pixel -- Satellite Search](https://search.remotepixel.ca/#6.71/-34.451/147.593)
 
@@ -921,18 +1044,22 @@
 
 - [Sentinel Hub Playground - A user-friendly place for Sentinel 2/Landsat images.](http://apps.sentinel-hub.com/sentinel-playgr%20ound)
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">JSON</summary>
+<ul>
 
 - [geojson.io](https://geojson.io/#map=2/-18.3/161.0)
 
 - [Sun Calc - Make an approximation of the time of the day using shadow direction](http://suncalc.net/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Advanced</summary>
+<ul>
 
 - [overpass turbo](https://overpass-turbo.eu/)
 
@@ -948,12 +1075,15 @@
 
 
 
+</ul>
 </details>
 
 <summary style="text-align: center; font-size: 24px; background-color: #52148F; padding: 5px; border-radius: 110px;">Persona Creation Tools</summary>
 
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Email</summary>
+<ul>
 
 - [10 Minute Mail - Temporary E-Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-1408)
 
@@ -968,18 +1098,22 @@
 - [Asia-East Free Email Providers](http://www.fepg.net/asia.HTML)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Bio</summary>
+<ul>
 
 - [Generate a Random Name - Fake Name Generator](https://www.fakenamegenerator.com/)
 
 - [faker.js - generate massive amounts of fake data in node.js and the browser](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Phone</summary>
+<ul>
 
 - [Twilio -- Try Twilio Free](https://www.twilio.com/try-twilio)
 
@@ -996,16 +1130,20 @@
 - [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Faces</summary>
+<ul>
 
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Backstories</summary>
+<ul>
 
 - [This resume does not exist](https://thisresumedoesnotexist.com/)
 
@@ -1042,6 +1180,7 @@
 - [SMAT - Disinformation Tool](https://www.smat-app.com/)
 
 - [Full Results Table -- MetaOSINT.github.io](https://metaosint.github.io/table/)
+</ul>
 </details>
 
 
@@ -1049,8 +1188,10 @@
 <summary style="text-align: center; font-size: 24px; background-color: #213451; padding: 5px; border-radius: 110px;">Other</summary>
 
 
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Cyrptocurrency</summary>
+<ul>
 
 - [ΞTHTECTIVE](https://ethtective.com/)
 
@@ -1071,12 +1212,14 @@
 
 - [Blockchair — Universal blockchain explorer and search engine](https://blockchair.com/)
 
+</ul>
 </details>
 
 
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Collective Tools</summary>
+<ul>
 
 - [OSINT Framework](https://osintframework.com/)
 
@@ -1105,10 +1248,12 @@
 - [daily court lists](https://web.archive.org/web/20200306131224/https://www.criminal-court-records.com.au/daily-court-lists.html)
 
 
+</ul>
 </details>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">China</summary>
+<ul>
 
 - [Weapon Knowledge Resource Base](https://bqzs.cnki.net/)
 
@@ -1118,9 +1263,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Cyber</summary>
+<ul>
 
 - [OpenPhish - Phishing Intelligence](https://openphish.com/)
 
@@ -1161,14 +1308,17 @@
 - [DeepL Translate: The world's most accurate translator](https://www.deepl.com/translator)
 
 
+</ul>
 </details>
 
 
 <summary style="text-align: center; font-size: 24px; background-color: #CF5054; padding: 5px; border-radius: 110px;">Report</summary>
 
 
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Report</summary>
+<ul>
 
 - [yEd Live - Online Diagram Tool](https://www.yworks.com/yed-live/)
 
@@ -1189,9 +1339,11 @@
 
 
 
+</ul>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Referneces</summary>
+<ul>
 
 - [Hate Symbols Database -- ADL](https://www.adl.org/hatesymbolsdatabase)
 
