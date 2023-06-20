@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body {
+			background-image: url("https://gifdb.com/images/file/gfycat-network-background-7ceo8pg1xxgcqj90.gif");
+			background-repeat: repeat;
+			color: #ffffff;
+			
+		}
+		
+		ul li a {
+			color: #2DB475; /* Change this to the desired color */
+		}
+	</style>
+</head>
+<body>
 <h1 id="intellitoolz">Intellitoolz</h1>
 <summary style="text-align: center; font-size: 24px; background-color: #CF5054; padding: 5px; border-radius: 110px;">Person Of interest Search</summary>
 <details>
