@@ -522,6 +522,9 @@
 <li><p><a href="http://www.geonames.org/">GeoNames</a></p>
 </li>
 </ul>
+</details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">News Topics</summary>
 
@@ -538,6 +541,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">Social Media Macro View</summary>
@@ -551,6 +557,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">High Activity Zones</summary>
 
@@ -566,6 +574,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Area Photos</summary>
 
