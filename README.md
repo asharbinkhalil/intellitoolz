@@ -406,14 +406,18 @@
 <li><p><a href="http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/">Railroad Maps</a></p>
 </li>
 </ul>
+
 </details>
 
-<details>
-<summary style="font-size: 18px; text-indent: 2em;">VKontakte</summary>
 
+<details>
+
+<summary style="font-size: 18px; text-indent: 2em;">VKontakte</summary>
 <ul>
 <li><a href="http://snradar.azurewebsites.net/">SnRadar</a></li>
 </ul>
+</details>
+
 <summary style="text-align: center; font-size: 24px;  background-color: #31322B; padding: 5px; border-radius: 110px;">CCTV CAMERAS</summary>
 
 <details>
@@ -430,10 +434,13 @@
 </li>
 <li><p><a href="https://www.windy.com/-Webcams/webcams?-33.859,151.200,5">Windy: Webcams</a></p>
 </li>
+</ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Reference Search</summary>
-
+<ul>
 <li><p><a href="http://airportwebcams.net/category/australia/">Global Airport Webcams</a></p>
 </li>
 <li><p><a href="https://www.google.com/search?client=ubuntu&channel=fs&q=site%3Ainsecam.org+%22location%22&ie=utf-8&oe=utf-8">site:insecam.org &quot;location&quot; - Google Search</a></p>
@@ -476,7 +483,6 @@
 
 <summary style="text-align: center; font-size: 24px; background-color: #5D8DC5; padding: 5px; border-radius: 110px;">Area Assessment Tools</summary>
 
-</details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Area Overview</summary>
 
@@ -576,12 +582,11 @@
 </ul>
 </details>
 
+
 <summary style="text-align: center; font-size: 24px; background-color: #CF5054; padding: 5px; border-radius: 110px;">Threat Actors</summary>
 
-</details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Crime & Gangs</summary>
-
 
 <ul>
 <li><p><a href="https://www.numbeo.com/crime/rankings_by_country.jsp">19. Crime Index by Country</a></p>
@@ -594,6 +599,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Militant Organisations</summary>
 
@@ -610,6 +617,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Health Activity</summary>
 
@@ -622,6 +631,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">NGO Activity</summary>
 
@@ -645,13 +657,8 @@
 
 
 
-
-
-
 <summary style="text-align: center; font-size: 24px; background-color: #000000; padding: 5px; border-radius: 110px;">Breached Data</summary>
 
-
-</details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Sites</summary>
 
@@ -664,6 +671,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Documents</summary>
 
@@ -674,10 +683,10 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Forums</summary>
-
-
 <ul>
 <li><p><a href="https://gab.com/search">search (@search@gab.com) -- gab.com - Gab Social</a></p>
 </li>
@@ -699,10 +708,6 @@
 
 <summary style="text-align: center; font-size: 24px; background-color: #DA3FD9; padding: 5px; border-radius: 110px;">Country Specific Registers</summary>
 
-
-
-
-</details>
 <details>
 
 <summary style="font-size: 18px; text-indent: 2em;">CANADA</summary>
@@ -726,6 +731,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">CYPRUS</summary>
 
@@ -736,6 +743,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">DENMARK</summary>
 
@@ -755,12 +765,18 @@
 </ul>
 </details>
 <details>
+
+
+
 <summary style="font-size: 18px; text-indent: 2em;">ESTONIA</summary>
 
 <ul>
 <li><a href="http://teatmik.ee/en/personlegal/14144085-Asicvault-O%C3%9C">ESTONIA</a></li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">FRANCE</summary>
 
@@ -768,6 +784,9 @@
 <li><a href="http://societe.com/">FRANCE</a></li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">NORWAY</summary>
 
@@ -784,6 +803,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">RUSSIA</summary>
 
@@ -791,6 +813,8 @@
 <li><a href="https://egrul.nalog.ru/index.html">RUSSIA</a></li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">SWEDEN</summary>
 
@@ -803,6 +827,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">SWITZERLAND</summary>
 
@@ -815,6 +842,20 @@
 </li>
 </ul>
 </details>
+
+
+<details>
+<summary style="font-size: 18px; text-indent: 2em;">CHINA</summary>
+<ul>
+<li><p><a href="https://bqzs.cnki.net/">Weapon Knowledge Resource Base</a></p>
+</li>
+<li><p><a href="https://oversea.cnki.net/index/">CNKI</a></p>
+</li>
+<li><p><a href="https://kns.cnki.net/kns8">个性化首页-中国知网</a></p>
+</li>
+</ul>
+</details>
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">UNITED KINGDOM</summary>
 
@@ -827,6 +868,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">USA</summary>
 
@@ -839,6 +883,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">AUSTRALIA</summary>
 
@@ -854,10 +901,6 @@
 
 <summary style="text-align: center; font-size: 24px; background-color: #47A9AA; padding: 5px; border-radius: 110px;">Corporate Profiling</summary>
 
-
-
-
-</details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Structures</summary>
 
@@ -880,6 +923,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Brand Metrics</summary>
 
@@ -902,6 +947,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Records</summary>
 
@@ -958,6 +1006,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Sat Imagery</summary>
 
@@ -976,6 +1026,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">JSON</summary>
 
@@ -986,6 +1038,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Advanced</summary>
 
@@ -1023,6 +1077,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Bio</summary>
 
@@ -1033,6 +1089,9 @@
 </li>
 </ul>
 </details>
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Phone</summary>
 
@@ -1053,6 +1112,10 @@
 </li>
 </ul>
 </details>
+
+
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Faces</summary>
 
@@ -1060,6 +1123,8 @@
 <li><a href="https://thispersondoesnotexist.com/">This Person Does Not Exist</a></li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Backstories</summary>
 
@@ -1101,8 +1166,9 @@
 <li><p><a href="https://metaosint.github.io/table/">Full Results Table -- MetaOSINT.github.io</a></p>
 </li>
 </ul>
-<summary style="text-align: center; font-size: 24px; background-color: #213451; padding: 5px; border-radius: 110px;">Other</summary>
 
+
+<summary style="text-align: center; font-size: 24px; background-color: #213451; padding: 5px; border-radius: 110px;">Other</summary>
 
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Cyrptocurrency</summary>
@@ -1162,18 +1228,6 @@
 </ul>
 </details>
 
-<details>
-<summary style="font-size: 18px; text-indent: 2em;">China</summary>
-
-<ul>
-<li><p><a href="https://bqzs.cnki.net/">Weapon Knowledge Resource Base</a></p>
-</li>
-<li><p><a href="https://oversea.cnki.net/index/">CNKI</a></p>
-</li>
-<li><p><a href="https://kns.cnki.net/kns8">个性化首页-中国知网</a></p>
-</li>
-</ul>
-</details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Cyber</summary>
 
