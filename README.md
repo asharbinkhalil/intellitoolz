@@ -429,10 +429,11 @@
 <li><p><a href="https://kamba4.crux.uberspace.de/">Surveillance under Surveillance</a></p>
 </li>
 <li><p><a href="https://www.windy.com/-Webcams/webcams?-33.859,151.200,5">Windy: Webcams</a></p>
+</li>
 </details>
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Reference Search</summary>
-</li>
+
 <li><p><a href="http://airportwebcams.net/category/australia/">Global Airport Webcams</a></p>
 </li>
 <li><p><a href="https://www.google.com/search?client=ubuntu&channel=fs&q=site%3Ainsecam.org+%22location%22&ie=utf-8&oe=utf-8">site:insecam.org &quot;location&quot; - Google Search</a></p>
