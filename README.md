@@ -1176,7 +1176,7 @@
 <li><p><a href="https://metaosint.github.io/table/">Full Results Table -- MetaOSINT.github.io</a></p>
 </li>
 </ul>
-
+</details>
 
 <summary style="text-align: center; font-size: 24px; background-color: #213451; padding: 5px; border-radius: 110px;">Other</summary>
 
@@ -1309,6 +1309,8 @@
 </li>
 </ul>
 </details>
+
+
 <details>
 <summary style="font-size: 18px; text-indent: 2em;">Referneces</summary>
 
