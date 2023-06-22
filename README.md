@@ -1,5 +1,4 @@
-![LOGO](logo.png)
-
+# Intellitoolz - A Collection Of OSINT Tools
 ## Web Version at asharbinkhalil.github.io/intellitoolz
 
 ![DEMO](demo.png)
