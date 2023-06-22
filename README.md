@@ -1,8 +1,8 @@
-# Intellitoolz - A collection of OSINT Tools
+![LOGO](logo.png)
 
 ## Web Version at asharbinkhalil.github.io/intellitoolz
 
-![Alt text](demo.png)
+![DEMO](demo.png)
 
 ##  Person Of interest Search
 <details>
