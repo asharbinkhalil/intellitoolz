@@ -1105,6 +1105,8 @@
 
 [OSINT Framework](https://osintframework.com/)
 
+[Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)
+
 [Wayback Machine](https://archive.org/)
 
 [VIS. Visual Investigative Scenarios Platform](https://vis.occrp.org/)
