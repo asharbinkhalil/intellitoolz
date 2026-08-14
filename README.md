@@ -298,6 +298,7 @@
 [Polinode - Powerful Network Analysis in the Cloud](https://polinode.com/)
 
 [2\. Google Advanced Search (Google)](https://www.google.com/advanced_search)
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)
 </details>
 
 
@@ -466,7 +467,7 @@
 
 [World's Air Pollution: Real-time Air Quality Index](https://waqi.info/)
 
-[Tool Library 🛰 Your geospatial intelligence tool belt for digital investigations](https://github.com/cartographia/geospatial-intelligence-library)
+[Tool Library 🛰 Your geospatial intelligence tool belt for digital investigations](https://github.com/neonpangolin/geospatial-intelligence-library)
 
 [OpenSeaMap - The free nautical chart](https://map.openseamap.org/)
 
