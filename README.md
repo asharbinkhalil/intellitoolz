@@ -387,6 +387,8 @@
 [Surveillance under Surveillance](https://kamba4.crux.uberspace.de/)
 
 [Windy: Webcams](https://www.windy.com/-Webcams/webcams?-33.859,151.200,5)
+
+[LiveTrafficCam: US state DOT traffic cameras, each checked for a live image](https://livetrafficcam.com/)
 </details>
 <details>
 <summary>Reference Search</summary>
